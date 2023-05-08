@@ -1,0 +1,10 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  box-sizing: border-box;
+  padding: 10px;
+  border: 1px solid lightgray;
+}
